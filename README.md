@@ -7,3 +7,9 @@ This course is completed from "Apna College" youtube channel.
     <li>Variables</li>
     <li>Datatypes</li>
 </ul>
+<h1>Lecture 2</h1>
+<ul>
+    <li>Comments in JS</li>
+    <li>Operators in JS</li>
+    <li>Conditional statements</li>
+</ul>
