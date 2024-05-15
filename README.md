@@ -13,3 +13,8 @@ This course is completed from "Apna College" youtube channel.
     <li>Operators in JS</li>
     <li>Conditional statements</li>
 </ul>
+<h1>Lecture 3</h1>
+<ul>
+    <li>Loops in JS</li>
+    <li>Strings in JS</li>
+</ul>
