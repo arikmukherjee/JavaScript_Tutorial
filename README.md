@@ -18,3 +18,8 @@ This course is completed from "Apna College" youtube channel.
     <li>Loops in JS</li>
     <li>Strings in JS</li>
 </ul>
+<h1>Lecture 4</h1>
+<ul>
+    <li>Array in JS</li>
+    <li>Array methods in JS</li>
+</ul>
