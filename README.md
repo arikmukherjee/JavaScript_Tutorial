@@ -23,3 +23,10 @@ This course is completed from "Apna College" youtube channel.
     <li>Array in JS</li>
     <li>Array methods in JS</li>
 </ul>
+<h1>Lecture 5</h1>
+<ul>
+    <li>Functions in JS</li>
+    <li>Arrow function in JS</li>
+    <li>forEach loop in JS</li>
+    <li>Some more array methods in JS</li>
+</ul>
