@@ -28,5 +28,5 @@ This course is completed from "Apna College" youtube channel.
     <li>Functions in JS</li>
     <li>Arrow function in JS</li>
     <li>forEach loop in JS</li>
-    <li>Some more array methods in JS</li>
+    <li>Some more array methods in JS..</li>
 </ul>
