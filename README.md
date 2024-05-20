@@ -34,3 +34,7 @@ This course is completed from "Apna College" youtube channel.
 <ul>
     <li>DOM Manipulation</li>
 </ul>
+<h1>Lecture 7</h1>
+<ul>
+    <li>DOM Manipulation</li>
+</ul>
