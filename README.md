@@ -38,3 +38,7 @@ This course is completed from "Apna College" youtube channel.
 <ul>
     <li>DOM Manipulation</li>
 </ul>
+<h1>Lecture 8</h1>
+<ul>
+    <li>Event Handling</li>
+</ul>
