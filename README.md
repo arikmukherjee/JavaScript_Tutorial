@@ -42,3 +42,11 @@ This course is completed from "Apna College" youtube channel.
 <ul>
     <li>Event Handling</li>
 </ul>
+<h1>Lecture 9</h1>
+<ul>
+    <li>Tic Tac Toe Game</li>
+</ul>
+<h1>Lecture 10</h1>
+<ul>
+    <li>Stone Papper Scissors Game</li>
+</ul>
