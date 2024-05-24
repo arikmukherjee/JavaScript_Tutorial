@@ -50,3 +50,7 @@ This course is completed from "Apna College" youtube channel.
 <ul>
     <li>Stone Papper Scissors Game</li>
 </ul>
+<h1>Lecture 11</h1>
+<ul>
+    <li>Classes & Objects</li>
+</ul>
