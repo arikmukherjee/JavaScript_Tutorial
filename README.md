@@ -54,3 +54,11 @@ This course is completed from "Apna College" youtube channel.
 <ul>
     <li>Classes & Objects</li>
 </ul>
+<h1>Lecture 12</h1>
+<ul>
+    <li>Callbacks,Promises,Async Awaits</li>
+</ul>
+<h1>Lecture 13</h1>
+<ul>
+    <li>API Fetching</li>
+</ul>
