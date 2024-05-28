@@ -61,4 +61,5 @@ This course is completed from "Apna College" youtube channel.
 <h1>Lecture 13</h1>
 <ul>
     <li>API Fetching</li>
+    <li>Project - Currency Converter</li>
 </ul>
